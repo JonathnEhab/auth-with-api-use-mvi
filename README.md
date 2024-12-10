@@ -37,6 +37,7 @@ The project is organized into clear and separate layers for better maintainabili
 - **`repository`**: Interfaces and implementations for accessing data (e.g., API calls).
 - **`datasource`**: Network-related logic (Retrofit API interface, DI setup).
 - **`model`**: Data models for API requests and responses.
-
-## **Project StructureTo Test App this email : "eve.holt@reqres.in" with any password **
+---
+## **To Test this App**
+- **use email :* **eve.holt@reqres.in** with any password*
 
